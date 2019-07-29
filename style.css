@@ -1,0 +1,42 @@
+body {
+  background-color: hsl(333, 50%, 20%);
+  color:white;
+  text-align:center;
+}
+
+header{
+position:relative;
+}
+#img-div {
+    background-color: hsl(333, 50%, 25%);
+ color:lemonchiffon;
+    margin:auto;
+    display: grid;
+    justify-content: center;
+}
+
+#image{
+max-width:100%;
+  display:block;
+  height:auto;
+  margin:  auto;
+ 
+  /*padding:10px 10px 10px 10px;*/
+ 
+}
+
+footer{
+  color:hsl(50, 100%, 50%);
+ position:relative;
+
+  
+}
+ul li{
+line-height:30px;
+  text-align:justify;
+  margin-left:10% ;
+  margin-right:10%;
+}
+a{
+  color: yellow;
+}
